@@ -1,0 +1,22 @@
+{
+  "name": "mushlog-api",
+  "version": "1.0.0",
+  "description": "mushlog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanedeeodonnell/mushlog.git"
+  },
+  "keywords": [
+    "mushroom"
+  ],
+  "author": "Shane O'Donnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanedeeodonnell/mushlog/issues"
+  },
+  "homepage": "https://github.com/shanedeeodonnell/mushlog#readme"
+}
